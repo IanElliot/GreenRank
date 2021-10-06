@@ -1,8 +1,8 @@
-# be serene; go green. green rank will make you lean.
+# Go Green.
 
 ## About The Project
 
-It can be difficult to know how big your carbon footprint is; even when you know how big your footprint is, it would be beneficial to see data about categorized aspects of your
+It can be difficult to know how big your carbon footprint is; it would be beneficial to see data about categorized aspects of your
 behavior.
 
 Green Rank is a dynamic web application that responds to user input to provide information for users to better understand their carbon footprint.
@@ -26,5 +26,4 @@ Walker Marsh - [GitHub]() - [LinkedIn]()
 Nitin Kumar - [GitHub]() - [LinkedIn]()
 
 
-## Save the earth pls
 
